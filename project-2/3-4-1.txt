@@ -1,0 +1,60 @@
+User ID 7998746368 top-5 results
+Bundle NAME Sid Meiers Civilization Anthology
+	score 1.5849850710127549
+Bundle NAME The Binding of Isaac : Rebirth + Afterbirth Bundle
+	score 1.5438686732016746
+Bundle NAME Supergiant Collection
+	score 1.2386520377920842
+Bundle NAME Sid Meiers Civilization V: Complete
+	score 1.1616523485586643
+Bundle NAME Goat Simulator: GOATY
+	score 1.0153241164427784
+
+User ID 8027368512 top-5 results
+Bundle NAME Telltale Collection
+	score 4.46347153151526
+Bundle NAME Borderlands Take Over Your Life Bundle
+	score 3.708628086984452
+Bundle NAME Borderlands Triple Pack
+	score 3.5436773173521097
+Bundle NAME The Witcher Trilogy
+	score 2.3089878357907354
+Bundle NAME Goat Simulator: GOATY
+	score 2.2881351302491986
+
+User ID 8030770479 top-5 results
+Bundle NAME Half-Life Complete
+	score 4.483734342948973
+Bundle NAME Half-Life 1 Anthology
+	score 3.746318251736716
+Bundle NAME Tripwire Complete Bundle
+	score 3.1768725663576114
+Bundle NAME Source Multiplayer Pack
+	score 1.6201697354849038
+Bundle NAME Killing Floor 1 Complete Your Set!
+	score 1.3489749058492233
+
+User ID 8051826169 top-5 results
+Bundle NAME Sid Meiers Civilization Anthology
+	score 2.342362238091277
+Bundle NAME Sid Meiers Civilization V: Complete
+	score 1.7229774563112117
+Bundle NAME World of Magicka Bundle
+	score 1.559892777200504
+Bundle NAME Supergiant Collection
+	score 1.2691113027285936
+Bundle NAME The Witcher Trilogy
+	score 1.2585952238844578
+
+User ID 8054453794 top-5 results
+Bundle NAME BioShock Triple Pack
+	score 2.4828891851233106
+Bundle NAME Half-Life Complete
+	score 2.1109249339716647
+Bundle NAME Supergiant Collection
+	score 1.5596695161077938
+Bundle NAME The Binding of Isaac : Rebirth + Afterbirth Bundle
+	score 1.4975087277609331
+Bundle NAME The Witcher Trilogy
+	score 1.3760803822243548
+

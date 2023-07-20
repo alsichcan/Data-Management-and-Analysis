@@ -1,0 +1,60 @@
+User ID 7998746368 top-5 results
+Bundle NAME Supergiant Collection
+	score 1.723816433891321
+Bundle NAME Sid Meiers Civilization Anthology
+	score 1.6850256089745717
+Bundle NAME The Binding of Isaac : Rebirth + Afterbirth Bundle
+	score 1.484279767170563
+Bundle NAME Grand Theft Auto V & Great White Shark Cash Card
+	score 1.4249454440226847
+Bundle NAME Grand Theft Auto V & Megalodon Shark Cash Card
+	score 1.424832543675643
+
+User ID 8027368512 top-5 results
+Bundle NAME Telltale Collection
+	score 4.148158238867171
+Bundle NAME Borderlands Take Over Your Life Bundle
+	score 3.096667936503252
+Bundle NAME Borderlands Triple Pack
+	score 2.9928182132487002
+Bundle NAME Awesomenauts - Mega Value Pack
+	score 1.8304727865208283
+Bundle NAME Goat Simulator: GOATY
+	score 1.7622029816695979
+
+User ID 8030770479 top-5 results
+Bundle NAME Half-Life Complete
+	score 4.106044645062615
+Bundle NAME Half-Life 1 Anthology
+	score 3.463098740503929
+Bundle NAME Tripwire Complete Bundle
+	score 2.7886112612039162
+Bundle NAME Source Multiplayer Pack
+	score 1.7124250910411383
+Bundle NAME Goat Simulator: GOATY
+	score 1.4922462091949151
+
+User ID 8051826169 top-5 results
+Bundle NAME Sid Meiers Civilization Anthology
+	score 2.322588509412521
+Bundle NAME Sid Meiers Civilization V: Complete
+	score 1.8211661851466983
+Bundle NAME Bad Company 2 Bundle
+	score 1.6099828408000976
+Bundle NAME The Witcher Trilogy
+	score 1.5434276999537953
+Bundle NAME World of Magicka Bundle
+	score 1.5358440264916102
+
+User ID 8054453794 top-5 results
+Bundle NAME Half-Life Complete
+	score 2.9391570573396173
+Bundle NAME Half-Life 1 Anthology
+	score 2.2821607329398383
+Bundle NAME BioShock Triple Pack
+	score 1.8670272867741733
+Bundle NAME The Witcher Trilogy
+	score 1.5954492102515028
+Bundle NAME Supergiant Collection
+	score 1.2527757291472736
+

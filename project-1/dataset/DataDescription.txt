@@ -1,0 +1,93 @@
+데이터관리와 분석 2021-1 Dataset
+IMLAB 오설아
+
+* 데이터
+
+주어진 데이터는 사이트 A의 데이터입니다.
+(데이터에 오류가 존재할 수 있으니, 발견 시 즉시 osa8361@snu.ac.kr로 메일 보내주시기 바랍니다.)
+
+* 데이터 형식
+
+첫 줄은 데이터 attribute 정보, 그 이후는 모두 데이터입니다.
+모든 줄은 comma(,)로 나뉘어진 csv 형태의 파일입니다.
+
+* 데이터 파일
+ 
+user.csv: 사용자 정보
+item.csv: 아이템 정보
+user_item.csv: 사용자가 아이템을 이용한 이력 정보
+review.csv: 사용자가 아이템에 남긴 리뷰 정보
+genre.csv: 장르 정보
+item_genre.csv: 아이템이 속한 장르 정보
+bundle.csv: 여러 아이템을 묶어서 판매하는 번들 정보
+bundle_item.csv: 번들에 속한 아이템 정보
+bundle_genre.csv: 번들에 속한 아이템들이 가진 장르 정보
+tag.csv: 태그 정보
+item_specs.csv: 스펙 정보
+
+* 데이터 정보
+
+- user.csv
+id: 사용자 고유번호
+user_name: 사용자 닉네임
+profile_image: 프로필 이미지 존재 여부 ( 0: 무, 1: 유, 기본적으로 무 )
+items_count: 사용자가 이용한 이력이 있는 아이템 총 개수 ( 기본적으로 0개 )
+
+- item.csv
+id: 아이템 고유번호
+item_name: 아이템 이름
+price: 아이템 가격
+beta_version: 정식 출시 전 베타 버전 유무 ( 0: 무, 1: 유, 기본적으로 무 )
+ratings: 사용자들에게 받은 평가 점수 ( [-4, +4] 범위의 값. 0은 중립, +는 긍정적 평가가 많음을, -는 부정적 평가가 많음을 의미, 기본적으로 0 )
+metascore: 외부의 평가 점수 ( 기본적으로 0점 )
+developer: 개발사 정보
+release_date: 출시 일자
+
+- user_item.csv
+user_id: 사용자 id
+item_id: 아이템 id
+usagetime_2weeks: 최근 2주 간 사용자가 아이템을 이용한 시간
+usagetime_total: 사용자가 아이템을 이용한 총 시간
+
+- review.csv
+id: 리뷰 고유번호
+user_id: 리뷰를 남긴 사용자 id
+item_id: 사용자가 리뷰를 남긴 아이템 id
+recommend: 사용자의 아이템 추천 여부 ( -1: 비추천, +1: 추천 )
+body: 리뷰 본문 길이
+helpful_score: 리뷰가 받은 평가 중 추천의 비율 ( (helpful_count / 해당 리뷰가 받은 총 평가 수) * 100 % )
+helpful_count: 리뷰가 받은 추천 수 ( 기본적으로 0개 )
+posted_date: 리뷰 게시 일자
+
+- genre.csv
+id: 장르 고유번호
+genre_name: 장르 이름
+
+- item_genre.csv
+item_id: 아이템 id
+genre_id: 해당 아이템이 속하는 장르 id
+
+- bundle.csv
+id: 번들 고유번호
+bundle_name: 번들 이름
+price: 번들 가격
+final_price: 할인된 번들의 최종 가격
+discount: 할인율
+
+- bundle_item.csv
+bundle_id: 번들 id
+item_id: 해당 번들에 속하는 아이템 id
+
+- bundle_genre.csv
+bundle_id: 번들 id
+genre_id: 해당 번들이 포함하는 아이템들이 속해 있는 장르 id
+genre_count: 해당 번들이 포함하는 아이템들 중 해당 장르에 몇 개나 속해있는지를 나타내는 수
+
+- tag.csv
+item_id: 아이템 id
+tag_name: 태그 이름
+tag_order: 태그가 붙어 있는 순서
+
+- item_specs.csv
+item_id: 아이템 id
+spec_name: 스펙 이름
